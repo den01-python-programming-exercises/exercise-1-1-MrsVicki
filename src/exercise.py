@@ -1,4 +1,4 @@
 def main():
-    print ("Ada Lovelace")
+    print ("Ada Lovelac")
 
 main()
